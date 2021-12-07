@@ -4,5 +4,23 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "mongoose": "^6.0.15"
-  }
+  },
+  "name": "wiki-api",
+  "description": "Creating my own RESTful API",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thounny/Wiki-API.git"
+  },
+  "author": "Thounny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thounny/Wiki-API/issues"
+  },
+  "homepage": "https://github.com/thounny/Wiki-API#readme"
 }
